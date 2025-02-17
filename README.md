@@ -12,10 +12,12 @@ Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I
 
 ## 📦 Projects
 
-- ✨ **[Kaelian](https://kaelian.dev)** — My personal website, where you can find my projects, my blog and my resume.
-- ✨ **[Termsteel](https://github.com/afi-dev/Termsteel)** **OUTDATED** — Modern web sleek terminal (Working on Termsteel V2)
-- ✨ **[SpartSight](https://spartsight.com)** — A cloud platform for remote server administration
-- ✨ **[BlockSail](https://blocksail.xyz)** — A marketplace enabling Minecraft creators to sell content.
+- ✨ **[Kaelian](https://kaelian.dev)** — Personal website
+- ✨ **[Termsteel](https://github.com/kaelianbaudelet/Termsteel)** **OUTDATED** — Modern web sleek terminal
+- ✨ **[MesConges](https://github.com/kaelianbaudelet/mesconges)** — Platform for collecting holiday requests
+
+## Projects I'm actively working on in 2025
+
 - ✨ **CodeForge** — A platform enabling teachers to create programming workspaces for their students
 - ✨ **EduPlanner** — An improved and unofficial version of the schedule for the EPSI institution.
 
