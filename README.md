@@ -12,9 +12,11 @@ Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I
 
 ## 📦 Projects
 
+- ✨ **[StudentSphere](https://studentsphere.app)** — A web app for students to manage their classes, assignments, and academic life.
+- ✨ **[Wigor Schedule Provisioning Server](https://github.com/kaelianbaudelet/WSPS)** — A web API that scrapes and serves C&D and IGENSIA school group schedules.
 - ✨ **[Kaelian](https://kaelian.dev)** — Personal website
-- ✨ **[Termsteel](https://github.com/kaelianbaudelet/Termsteel)** **OUTDATED** — Modern web sleek terminal
 - ✨ **[MesConges](https://github.com/kaelianbaudelet/mesconges)** — Platform for collecting holiday requests
+- ✨ **[Termsteel](https://github.com/kaelianbaudelet/Termsteel)** **OUTDATED** — Modern web sleek terminal
 
 ## Projects I'm actively working on in 2025
 
