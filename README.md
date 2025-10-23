@@ -21,7 +21,7 @@ Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I
 ## Projects I'm actively working on in 2025
 
 - ✨ **CodeForge** — A platform enabling teachers to create programming workspaces for their students
-- ✨ **EduPlanner** — An improved and unofficial version of the schedule for the EPSI institution.
+- ✨ **Pawgor** — A API Wrapper for [WigorServices](http://wigorservices.net/)
 
 
 ## 🪛 My favorite work tools 💖
