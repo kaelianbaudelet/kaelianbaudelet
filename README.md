@@ -4,11 +4,11 @@ Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I
 
 ## 📬 Contact me
 
-- **[X](https://x.com/kaelianbaudelet)**
-- **[Mail](mailto:contact@kaelian.dev)**
-- **[Linkedin](https://www.linkedin.com/in/kaelianbaudelet)**
-- **[Thread](https://www.threads.net/@kaelian.baudelet)**
-- **[Mastodon](https://mastodon.social/kaelian)**
+- ✖️ **[X](https://x.com/kaelianbaudelet)**
+- ✉️ **[Mail](mailto:contact@kaelian.dev)**
+- 💼 **[Linkedin](https://www.linkedin.com/in/kaelianbaudelet)**
+- 🧵 **[Thread](https://www.threads.net/@kaelian.baudelet)**
+- 🐘 **[Mastodon](https://mastodon.social/kaelian)**
 
 ## 📦 Projects
 
