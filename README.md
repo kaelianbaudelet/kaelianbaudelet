@@ -1,8 +1,6 @@
-## Hi there 👋 I'm Kaelian/Afi
-
 <img width="1508" height="383" alt="github-banner" src="https://github.com/user-attachments/assets/7b495e4d-c0c3-4a7f-8747-2e31bd380e1a" />
 
-Hi, I'm Kaelian, known as Afi. A lover of code and an expert in creating bugs, I prefer the dark to the light of day.
+## Hi there 👋 I'm Kaelian/Afi
 
 ## 📬 Contact me
 
