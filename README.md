@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Kaelian/Afi
 
-## 📬 Contact me
+### 📬 Contact me
 
 - ✖️ **[X](https://x.com/kaelianbaudelet)**
 - ✉️ **[Mail](mailto:contact@kaelian.dev)**
@@ -10,11 +10,12 @@
 - 🧵 **[Thread](https://www.threads.net/@kaelian.baudelet)**
 - 🐘 **[Mastodon](https://mastodon.social/kaelian)**
 
-## 📦 Projects
+### 📦 Projects
 
 - ✨ **[StudentSphere](https://studentsphere.app)** — A web app for students to manage their classes, assignments, and academic life.
-- ✨ **[Wigor Schedule Provisioning Server](https://github.com/kaelianbaudelet/WSPS)** — A web API that scrapes and serves C&D and IGENSIA school group schedules.
 - ✨ **[Kaelian](https://kaelian.dev)** — Personal website
+- ✨ **[FileSphere](https://github.com/kaelianbaudelet/filesphere)** — Assignment submission and management platform.
+- ✨ **[Neptune](https://github.com/kaelianbaudelet/neptune)** — Hotel booking and reservation management platform.
 - ✨ **[MesConges](https://github.com/kaelianbaudelet/mesconges)** — Platform for collecting holiday requests
 
 ## My favorite work tools
