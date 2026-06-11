@@ -74,25 +74,30 @@
 
 **DB/ORM**
 
-<img src="https://github.com/user-attachments/assets/b5d35014-df4f-4904-8190-e6be80dcdc67" alt="Prisma" height="30">
+<img width="45" height="45" alt="postgres" src="https://github.com/user-attachments/assets/1276c7d4-8a11-44a8-bda6-70892f091b10" />
+
+<img width="45" height="45" alt="mariadb" src="https://github.com/user-attachments/assets/9395da6a-a019-484c-9a16-0708a168df6f" />
+
+<img width="45" height="45" alt="prisma" src="https://github.com/user-attachments/assets/aae8fad5-cd50-4fdd-9627-c1efee21fa2b" />
+
+
 &nbsp;
-<img src="https://github.com/user-attachments/assets/73fdac4b-8738-4d02-8b4b-5237f01add89" alt="PostgresSQL" height="30">
-&nbsp;
+
+**Ops**
 
 
 
 **IDE/Dev Tools**
 
-<img src="https://github.com/user-attachments/assets/d24a721e-6d23-48a6-97d5-8fd82a4c0e56" alt="VueJS" height="30">
-&nbsp;
-<img src="https://github.com/user-attachments/assets/b3fe2330-8477-4f37-bffe-f7b73b4b16b0" alt="VueJS" height="30">
-&nbsp;
-<img src="https://github.com/user-attachments/assets/f3dd5052-f0df-4ed2-9df0-72b4e08d95ed" alt="Wevstorm" height="30">
+<img width="45" height="45" alt="antigravity" src="https://github.com/user-attachments/assets/3b0fa057-9df3-4a83-a445-1bbeefdf5a17" />
+
+
 &nbsp;
 
 **Cloud Platform**
 
-<img src="https://github.com/user-attachments/assets/3dcc4f45-eb0d-48bd-b482-209ecaf7425b" alt="OCI" height="30">
-<img src="https://github.com/user-attachments/assets/1dbb1fca-80ab-4d4a-bf88-1fdcaf66f5e8" alt="OVH" height="30">
+<img width="45" height="45" alt="ovhcloud" src="https://github.com/user-attachments/assets/5895d113-a07f-43c3-a453-f24f188675b4" />
+
+<img width="45" height="45" alt="oracle" src="https://github.com/user-attachments/assets/b925a982-df50-44bd-92b6-5924be7b6ff4" />
 
 
