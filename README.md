@@ -11,7 +11,7 @@
 - ✉️ **[Mail](mailto:contact@kaelian.dev)**
 - 💼 **[Linkedin](https://www.linkedin.com/in/kaelianbaudelet)**
 - 🧵 **[Thread](https://www.threads.net/@kaelian.baudelet)**
-- 🐘 **[Mastodon](https://mastodon.social/kaelian)**
+- 🐘 **[Mastodon](https://mastodon.social/@kaelian@mastodon.social)**
 
 ### 📦 Projects
 
