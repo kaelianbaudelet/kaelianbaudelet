@@ -23,12 +23,16 @@
 
 ### Achievements
 
-<a href="https://learn.microsoft.com/api/credentials/share/fr-fr/BAUDELETKaelian-4692/E4D07DEC03EDC341?sharingId=E9F95A4FE3F71E63">
-  <img src="https://github.com/user-attachments/assets/d150ba09-aea6-4b79-a224-dee7e7fc77eb" 
+<a href="https://learn.microsoft.com/api/credentials/share/fr-fr/BAUDELETKaelian-4692/E4D07DEC03EDC341?sharingId=E9F95A4FE3F71E63"><img src="https://github.com/user-attachments/assets/d150ba09-aea6-4b79-a224-dee7e7fc77eb" 
        alt="GitHub Foundations" 
        width="120" 
        style="background: transparent; border: none; box-shadow: none;">
+</a><a href="https://edube.org/certificates/verify/QHix.XbpC.pYpD"><img src="https://github.com/user-attachments/assets/4ccd1a27-5161-4be7-a265-03280964ecdb" 
+       alt="PCEP – Certified Entry-Level Python Programmer" 
+       width="120" 
+       style="background: transparent; border: none; box-shadow: none;">
 </a>
+
 
 ### My favorite work tools
 
